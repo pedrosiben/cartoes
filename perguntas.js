@@ -23,6 +23,6 @@ function criaCartao(categoria, pergunta, resposta) {
   container.appendChild(cartao);
 }
 
-criaCartao("História", "Quem foi Tiradentes?", "Um dos líderes da Inconfidência Mineira.");
-criaCartao("Matemática", "Qual é a raiz quadrada de 81?", "É 9.");
-criaCartao("Ciências", "O que é fotossíntese?", "É o processo pelo qual as plantas produzem seu próprio alimento.");
+criaCartao("Português", "Qual é o sinônimo da palavra feliz?", "Alegre.");
+criaCartao("Matemática", "valor de x na equação x + 3 = 7?", "x = 4.");
+criaCartao("Geografia", "Qual é o maior oceano do mundo?", "Oceano Pacífico.");
